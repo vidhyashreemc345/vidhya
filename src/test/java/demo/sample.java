@@ -8,6 +8,7 @@ public class sample {
 	public void sample()
 	{
 		System.out.println("pratice github");
+		System.out.println("git pratice");
 	}
 	
 
